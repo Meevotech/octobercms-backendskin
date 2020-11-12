@@ -1,5 +1,6 @@
 {
     "name": "cyd293/backendskin",
+    "type": "october-plugin",
     "description": "October CMS Backend Skin",
     "authors": [
         {
